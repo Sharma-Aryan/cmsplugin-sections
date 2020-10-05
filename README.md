@@ -94,7 +94,7 @@ model. This makes it pretty straightforward to create your own, pluggable
 sections types for your operators.
 
 If you plan to create your own, custom Sections for your project, your
-`models.py` might looks something like this:
+`models.py` might looks something like this it is good, Brother don't cancel it , if you don't want ignore it :
 
 ```` python
 from django.db import models
